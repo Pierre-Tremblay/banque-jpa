@@ -4,17 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed863d1c-2b04-41ee-8e58-d470859f7f2a" name="Changes" comment="" />
+    <list default="true" id="ed863d1c-2b04-41ee-8e58-d470859f7f2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adresse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AssuranceVie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AssuranceVie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Banque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Banque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Compte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConnexionJPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConnexionJPA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LivretA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LivretA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Virement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Virement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BCKZYqweO4jbPlOAfGJG5GK9oH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +48,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ConnexionJPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnexionJPA" />
+      <module name=" banque-jpa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnexionJPA" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +74,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656404683372</updated>
+      <workItem from="1656404684994" duration="14177000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
